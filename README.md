@@ -8,7 +8,7 @@ Uses [Webpack](https://github.com/webpack/webpack) to bundle files and serves it
 with
 [webpack-dev-server](https://webpack.js.org/guides/development/#webpack-dev-server).
 
-##Preview
+## Preview
 
 To preview working example [Click here](https://deckgl-react-googlemaps-mvt.netlify.app/)
 
